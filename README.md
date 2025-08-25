@@ -35,8 +35,8 @@ else:
     print("Enter a Positive Integer.")
 
 ```
-# Output
+## Output
 <img width="656" height="249" alt="image" src="https://github.com/user-attachments/assets/40e068b4-f63d-43ec-a89f-f280b19b0257" />
 
-# Result
+## Result
 Thus, the python program to check the number is Armstrong number or not and inspect for failures is executed successfully.
