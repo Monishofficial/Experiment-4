@@ -1,7 +1,7 @@
 # Experiment-4
 
 ## ARMSTRONG NUMBER 
-## Aim: Write a python program to check the number is Armstrong number or not and inspect for failures. 
+## Aim:  Write a python program to check the number is Armstrong number or not and inspect for failures. 
 
 ## Algorithm
 1.	Start the program.
@@ -14,7 +14,7 @@
 8. Check if sum == number. If true, print "It is an Armstrong Number." Otherwise, print "It is not an Armstrong Number."
 9. Stop the program. 
 
-# Program
+## Program
 #### NAME: MONISH N
 #### REG NO: 212223240097
 ```
